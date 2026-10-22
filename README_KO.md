@@ -5,7 +5,7 @@
 # CyberStrikeAI
 
 
-[中文](README_CN.md) | [English](README.md) | [한국어](README_KO.md)
+[한국어](README_KO.md) | [中文](README_CN.md) | [English](README.md)
 
 **실행(Action)이 중심이 되는 AI 네이티브 사이버보안 시스템 — 의도를 통제된 실행으로, 증거를 운영 메모리로 전환하고, 모든 운영이 다음 운영을 개선합니다.**
 
